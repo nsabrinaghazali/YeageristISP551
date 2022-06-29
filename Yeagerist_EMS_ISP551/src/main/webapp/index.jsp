@@ -40,6 +40,6 @@
 	<a href="addEvent.jsp">
 		<button>Add Event</button>
 	</a>
-	<p>Error finding</p>
+	<p>Error findings</p>
 </body>
 </html>
